@@ -1,0 +1,5 @@
+<meta>
+    <info author="RP Server" version="2.0" name="kira" description="Sultan Arac Kiralama - NPC"/>
+    <script src="kira_server.lua" type="server"/>
+    <script src="kira_client.lua" type="client"/>
+</meta>
